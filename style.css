@@ -1,0 +1,19 @@
+.app{
+    background-color: aqua;
+    margin: 20px;
+    border: solid red ;
+    padding: 20px;
+}
+#no1 , #no2{
+    padding: 20px;
+    margin: 5px;
+    background-color: whitesmoke;
+    color: rgb(6, 80, 20);
+}
+#ch{
+    content: ;
+}
+button{
+    text-align: center;
+
+}
